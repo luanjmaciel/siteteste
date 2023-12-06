@@ -1,0 +1,64 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613710553_61-p-minimalistichnii-fon-dlya-prezentatsii-83.jpg);}
+
+.titulo {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+.menu {
+  background-color: #eee;
+  padding: 10px 30px;
+  text-align: center;
+}
+
+.menu a {
+  margin: 0 20px; 
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.imagem-banner {
+  width: 100%;
+}
+
+.boas-vindas {
+  text-align: justify;
+  padding: 20px;
+  margin: 0 20px; 
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  text-align: center;
+}
+
+.pontos-turisticos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.ponto {
+  width: 45%;
+  margin: 10px;
+  text-align: justify;
+}
+
+.bordaimg {
+  border: 2px solid #a68484;
+  border-radius: 8px;
+}
+#p1{
+  margin: 10px 20px; 
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  background-color: rgb(221, 155, 153);}
